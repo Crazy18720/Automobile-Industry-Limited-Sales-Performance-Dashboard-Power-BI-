@@ -51,6 +51,7 @@ Map Visualization → Regional sales contribution.
 Donut Charts → Customer segmentation and contribution.
 
 **Business Value**
+
 This dashboard enables the automobile company to:
 
 Monitor revenue growth across different time periods.
